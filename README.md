@@ -6,8 +6,6 @@ Este projeto é uma aplicação em Python que permite remover o fundo de imagens
 
 - Remoção automática de fundo de imagens.
 - Suporte a diversos formatos de imagem (JPEG, PNG, etc.).
-- Interface de linha de comando (CLI) para fácil uso.
-- Opção de salvar a imagem resultante em diferentes formatos.
 
 ## Pré-requisitos
 
@@ -18,7 +16,7 @@ Antes de executar o projeto, você precisa ter o seguinte instalado:
   - `opencv-python`
   - `numpy`
   - `Pillow`
-  - `rembg` (ou outra biblioteca que você esteja usando para remoção de fundo)
+  - `rembg`
 
 Você pode instalar as bibliotecas necessárias usando pip:
 
